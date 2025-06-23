@@ -5,8 +5,10 @@ Tujuan: untuk memprediksi Customer Lifetime Value (CLV) pada data pelanggan dari
 
 CLV adalah metrik penting yang mencerminkan total nilai keuangan yang bisa dihasilkan oleh pelanggan selama hubungan bisnis berlangsung.
 
-Analisis:  Pemodelan yang diterapkan yakni menggunakan machine learning untuk memprediksi nilai CLV secara akurat.
-
+## Brief Summary:
+- Analisis:  Pemodelan yang diterapkan yakni menggunakan machine learning untuk memprediksi nilai CLV.
+- Model Terpilih: Gradient Boosting Regressor pada target log(CLV) (dibandingkan dengan Random Forest dan Linear Regression).
+- Evaluasi: MAE, RMSE, R², cross-validation stability pada skala log dan asli.
 
 ## Dataset
 - Total observasi: 5.669 baris
