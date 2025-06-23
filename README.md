@@ -1,9 +1,11 @@
 # Capstone Project Module 3: Predicting Customer Lifetime Value (CLV)
 
 ## Projek Overview:
-Tujuan: untuk memprediksi Customer Lifetime Value (CLV) pada data pelanggan dari perusahaan asuransi. CLV adalah metrik penting yang mencerminkan total nilai keuangan yang bisa dihasilkan oleh pelanggan selama hubungan bisnis berlangsung.
+Tujuan: untuk memprediksi Customer Lifetime Value (CLV) pada data pelanggan dari perusahaan asuransi dengan mendalami faktor-faktor yang berpengaruh, dengan membuat model prediksi dan insight yang dapat digunakan dalam bisnis.
 
-Analisis:  Analisis dan pemodelan yang diterapkan adalah machine learning untuk memprediksi nilai CLV secara akurat.
+CLV adalah metrik penting yang mencerminkan total nilai keuangan yang bisa dihasilkan oleh pelanggan selama hubungan bisnis berlangsung.
+
+Analisis:  Pemodelan yang diterapkan yakni menggunakan machine learning untuk memprediksi nilai CLV secara akurat.
 
 
 ## Dataset
