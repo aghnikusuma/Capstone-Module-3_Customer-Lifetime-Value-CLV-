@@ -1,4 +1,4 @@
-# Capstone Project Module 3: Predicting Customer Lifetime Value (CLV)
+# Capstone Project Module 3: Memprediksi Customer Lifetime Value (CLV)
 
 # Project Overview
 Tujuan: Memprediksi Customer Lifetime Value (CLV) dari data pelanggan asuransi, sekaligus mengidentifikasi faktor-faktor yang paling berpengaruh. Output proyek mencakup model prediktif serta insight bisnis yang dapat diimplementasikan.
